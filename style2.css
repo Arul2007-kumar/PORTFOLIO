@@ -276,24 +276,6 @@ section{
         0 0 35px rgba(0, 234, 255, 0.9);
 
 }
-
-
-/* ------------------------------
-   PROFILE IMAGE
-   */
-.home-image {
-
-    width: 43%;
-
-    display: flex;
-
-    justify-content: center;
-
-    align-items: center;
-
-}
-
-
 .image-shape {
 
     width: min(32vw, 400px);
